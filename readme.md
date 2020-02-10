@@ -12,7 +12,7 @@ TeslaGAS is a library that helps writing scripts that communicate with your Tesl
 Add the library to your script project
 
 ```1yBq3EEmlgUJWGk6Ygo9pDWSL7XvvxJyQti629OtrIeje6mSZJAMvDNuq```
-
+Name it 'TeslaApi'
 ## Usage
 
 ```javaScript
